@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ex_2</string>
+    <string name="rec">REC</string>
+    <string name="fontsize">FontSize</string>
+    <string name="fontcolor">FontColor</string>
+    <string name="background">Background</string>
+</resources>
